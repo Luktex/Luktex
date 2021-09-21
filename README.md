@@ -10,7 +10,7 @@ In the future I want to learn: Java, Ruby, Python, C++
 - 📫 How to reach me: lopezlucasluciano@gmail.com
 - Linked In: linkedin.com/in/lucas-luciano-lopez
 
--Skills: Javascript / HTML / CSS / React / Redux / MaterialUi / Express / Material UI / MongoDB / PostgreSQL / Git / Sequelize
+-Skills: Javascript / HTML / CSS / React / Redux / MaterialUi / Express / MongoDB / PostgreSQL / Git / Sequelize
 
 <!---
 Luktex/Luktex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
