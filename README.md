@@ -12,10 +12,10 @@ In the future I want to learn: Java, Ruby, Python, C++
 
 
 
-
+</br>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/lucas-luciano-lopez
+[linkedin]: https://linkedin.com/in/lucas-luciano-lopez
 
 -Skills: Javascript / HTML / CSS / React / Redux / MaterialUi / Express / MongoDB / PostgreSQL / Git / Sequelize
 
