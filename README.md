@@ -9,7 +9,13 @@ In the future I want to learn: Java, Ruby, Python, C++
 - 🌱 I’m currently learning JavaScript (React, Redux, HTML5, CSS, NodeJs, Express, Sequelize, and PostgreSQL)
 
 - 📫 How to reach me: lopezlucasluciano@gmail.com
-- LinkedIn: <a>linkedin.com/in/lucas-luciano-lopez</a>
+
+
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="62px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: linkedin.com/in/lucas-luciano-lopez
 
 -Skills: Javascript / HTML / CSS / React / Redux / MaterialUi / Express / MongoDB / PostgreSQL / Git / Sequelize
 
