@@ -1,6 +1,7 @@
 <h1>Hi I'm Lucas</h1>
 
-Currently learning JavaScript and very interested in BlockChain and crypto technologies 
+Currently learning JavaScript and very interested in BlockChain and crypto technologies.
+
 In the future I want to learn: Java, Ruby, Python, C++
 
 - 👋 Hi, I’m Lucas
