@@ -2,7 +2,7 @@
 
 Currently learning JavaScript and very interested in BlockChain and crypto technologies.
 
-In the future I want to learn: Java, Ruby, Python, C++
+In the future I want to learn: Java, Ruby, Python, C++, Solidity.
 
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in Economy/Software
